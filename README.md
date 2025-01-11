@@ -23,7 +23,7 @@
       <li>📫 How to reach me: <b>synguyentien.work@gmail.com</b>.</li>
     </ul>
   </div>
-  <img align="right" alt="GIF" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" width="200px" />
+  <img alt="GIF" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" width="200px" />
 </div>
 
 
