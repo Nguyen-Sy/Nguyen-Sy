@@ -15,7 +15,7 @@
   <div>
     <h2>🚀 About Me</h2>
     <ul>
-      <li>🔭 Currently working on <a href="https://github.com/Daslab">Daslab</a>.</li>
+      <li>🔭 Currently working on <a href="https://github.com/Daslabbs">Daslab</a>.</li>
       <li>🌱 Exploring <b>MPC (Multi-Party Computation)</b> and secret key management.</li>
       <li>💡 Interested in <b>Web3 wallets</b>, <b>cross-chain protocols</b>, and <b>AI integrations</b>.</li>
       <li>🛠️ Proficient in <b>Node.js</b>, <b>Python</b>, <b>Go</b>, <b>TypeScript</b>, and <b>Solidity</b>.</li>
