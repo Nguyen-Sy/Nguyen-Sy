@@ -9,8 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=Nguyen-Sy&color=blue" alt="Profile Views" />
 </div>
 
----
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <h2>🚀 About Me</h2>
@@ -25,12 +23,10 @@
       <li>📫 How to reach me: <b>synguyentien.work@gmail.com</b>.</li>
     </ul>
   </div>
-  <img align="right" alt="GIF" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" width="350px" />
+  <img align="right" alt="GIF" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" width="200px" />
 </div>
 
 
-
----
 ## 💻 Tech Stack
 * ### 🚀 Backend & Blockchain: 
     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -43,12 +39,12 @@
 
 * ### ⚙️ Tools & Technologies
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3EAAAF?style=for-the-badge&logo=githubactions&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-3A75C4?style=for-the-badge&logo=activemq&logoColor=white) ![Message Queues](https://img.shields.io/badge/Message_Queues-FF6F00?style=for-the-badge&logo=rabbitmq&logoColor=white)
----
+
 ## 🌐 Connect with Me
 - 🌍 Portfolio: [Coming Soon!]
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/sy-nguyen-tien-814a8b244/)
 - 📧 Email: [My Email](synguyentien.work@gmail.com)
----
+
 <h2>📈 <strong>GitHub Analytics:</strong></h2>  
 
 <div align="left">
